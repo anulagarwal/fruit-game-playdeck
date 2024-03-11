@@ -1,9 +1,9 @@
 const cacheName = "Momo Games-Watermelon Suika Game-0.4";
 const contentToCache = [
-    "Build/FruitMerge_Telegram5.loader.js",
+    "Build/FruitMerge_Telegram6.loader.js",
     "Build/68248473f2556f92c480c2b34c4ee74d.js",
-    "Build/51cf138636d786c870589a3adc97934b.data",
-    "Build/5607cff9420b28f7890e0e17a74f6678.wasm",
+    "Build/3859fde8ffd7d26e513e54c744c6dc6b.data",
+    "Build/7d493dccc49c568fbe2e931baf3beab3.wasm",
     "TemplateData/style.css"
 
 ];
